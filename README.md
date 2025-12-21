@@ -1,4 +1,4 @@
-# LOGI-DRONE
+
 # LOGI-DRONE  
 ### Autonomous Swarm Logistics Project
 
